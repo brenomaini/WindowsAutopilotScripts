@@ -212,4 +212,4 @@ Feito. Após isso, basta seguir os passos e finalizar o registro
 Neste caso em específico, após a finalização do script aconselho fortemente que **ACOMPANHE O REGISTRO NA TELA DO INTUNE** pois é necessário aguardar que o perfil seja atribuído antes de reiniciar a máquina, caso você não espere e volte para a tela de OOBE e prossiga, será necessário formatar o computador novamente.
 Caso isso ocorra, a parte boa é: se o computador já estiver registrado, após toda formatação ele voltará na tela do Autopilot com os registros "upados" previamente.
 
-> O Autopilot é uma ferramenta incrível que facilita muito o dia a dia do time de suporte técnico. Qualquer dúvidas, caso eu saiba responder, me coloco a disposição tanto neste tópico.
+
